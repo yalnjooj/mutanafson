@@ -1,0 +1,1647 @@
+
+
+
+/* اكواد عامة --البداية */
+@media (max-width: 4000px) {
+ #container {
+  width:95%;
+  margin: auto;
+  padding: auto;
+}
+}
+
+
+@font-face {
+      font-family: "HelveticaNeueW23forSKY-Bd";
+      src: url("../fonts/HelveticaNeueW23forSKY-Bd.ttf");
+    }
+/* font-family: "HelveticaNeueW23forSKY-Bd", serif */
+
+	#header{
+		position: relative;
+	}
+
+/* اكواد عامة --النهاية */
+	
+
+
+	
+/* رأس الصفحة -- البداية */
+body{
+	background-image: url("../w3images/background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#area-head-right{
+	display: inline-block;
+	width: 17%;
+    text-align: center;
+}
+
+#area-head-right span{
+	color: red;
+	font-size: 1.5vw;
+	font-family: 'HelveticaNeueW23forSKY-Bd', serif;
+}
+	
+#area-head-center{
+	display: inline-block;
+	width: 71%;
+	text-align: center;
+}
+
+#area-head-center span{
+	font-size: 1.5vw;
+	font-family: 'HelveticaNeueW23forSKY-Bd', serif;
+}
+
+#area-head-left{
+	display: inline-block;
+	width: 10%;
+	text-align: left;
+	}
+
+#area-head-left span{
+	font-size: 1.5vw;
+	font-family: 'HelveticaNeueW23forSKY-Bd', serif;
+	}
+/* رأس الصفحة -- النهاية */
+
+	
+/*-- حاوية جميع البيانات في المنتصف --*/
+	#studants{
+	position: relative;
+	}
+
+/*-- مستوى القاعدة -- البداية --*/
+	/* جهة اليمين */
+	#a1-div-a1{
+	position: absolute;
+	width: 100%;
+	}
+	
+	#a2-cont-cont-1{
+	position: relative;
+		
+	}
+
+	#a3-svg-a1-r{
+	fill:none;
+/**/stroke:none;
+	stroke-width: 1;
+	/*box-shadow: 0 4px 8px 0 #1FAF3E, 0 6px 20px 0 rgba(0, 0, 0, 0.19); ظل*/ 
+	}
+	
+	#a4-div-cont-right-a1{
+	position: absolute;
+	width: 17.7%;
+	top: 0%;
+	right: 0%;
+	}
+	
+	#a5-div-cont-00{
+	position: relative;
+
+	}
+	
+	#a5-div-cont-0{
+	position: absolute;
+    padding-top: 4.6%;
+	width: 100%;
+/**//*visibility: hidden;*/
+	}
+
+	#a6-svg-cont-0{
+	fill:#1faf3e;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#a7-div-cont-1{
+	position: absolute;
+    padding-top: 17%;
+	width: 100%;
+
+	}
+
+	#a8-svg-cont-1{
+	fill: #1faf3e;
+	stroke:none;
+	stroke-width: 1;
+	opacity: 0.4;
+	}
+	
+	#a9-div-cont-2{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17%;
+	
+	}
+	
+	#a10-svg-cont-2{
+	fill:#09723f;
+	stroke:none;
+	stroke-width: 1;
+	/*opacity: 0.4;*/
+	}
+	
+	#a11-title-a1{
+	position: absolute;
+	padding-top: 6.5%;
+	padding-right: 1.5%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+	/*opacity: 0.6;*/
+	}
+	
+	#a12-span-a1{
+		color: white;
+	}
+
+	#a00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #09723f;
+	}
+	
+	/* جهة اليسار */
+	#a13-div-cont-left-a1{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+	left: 0%;
+/**//*visibility: hidden;*/
+	}
+
+	#a14-svg-a1-l{
+		fill: #5bff7c;
+		stroke: #1faf3e;
+		stroke-width: 2;
+	}
+
+/*الحاوية*/
+	#a16-div-r-a1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#a17-div{
+		width: 100%;
+	}
+
+	#a18-div-1{
+		width: 20%;
+	}
+	#a19-div-2{
+		width: 20%;
+	}
+	#a20-div-3{
+		width: 20%;
+	}
+	#a21-div-4{
+		width: 20%;
+	}
+	#a22-div-5{
+		width: 20%;
+	}
+	#a23-div-6{
+		width: 20%;
+	}
+	#a24-div-7{
+		width: 20%;
+	}
+	#a25-div-8{
+		width: 20%;
+	}
+	#a26-div-9{
+		width: 20%;
+	}
+	#a27-div-10{
+		width: 20%;
+	}
+
+/*-- مستوى القاعدة -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى الأول -- البداية --*/
+	/* جهة اليمين */
+	#b1-div-b1{
+	position: absolute;
+	width: 100%;
+	}
+	
+	#b2-cont-cont-1{
+	position: relative;
+	}
+
+	#b3-svg-b1-r{
+	fill:none;/*#FBD998*/
+/**/stroke:none;
+	stroke-width: 1;
+	}
+	
+	#b4-div-cont-right-b1{
+	position: absolute;
+	width: 17.7%;
+	top: 9.3%;
+	right: 0%;
+	}
+	
+	#b5-div-cont-00{
+	position: relative;
+	}
+	
+	#b5-div-cont-0{
+	position: absolute;
+    padding-top: 4.6%;
+	width: 100%;
+/**/visibility: hidden;	
+	}
+
+	#b6-svg-cont-0{
+	fill:#ffcd6b;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#b7-div-cont-1{
+	position: absolute;
+    padding-top: 17%;
+	width: 100%;
+/**/
+	}
+
+	#b8-svg-cont-1{
+	fill: #ffcd6b;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#b9-div-cont-2{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17%;
+	
+	}
+	
+	#b10-svg-cont-2{
+	fill:#ffa447;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#b11-title-b1{
+	position: absolute;
+	padding-top: 7.5%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+	}
+	
+	#b12-span-b1{
+		color: white;
+	}
+	
+	#b00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #ffa447;
+	}
+	
+	/* جهة اليسار */
+	#b13-div-cont-left-b1{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+	left: 0%;
+/**/visibility: hidden;
+	}
+
+	#b14-svg-b1-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+	/*الحاوية*/
+	#b16-div-r-b1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#b17-div{
+		width: 100%;
+	}
+
+	#b18-div-1{
+		width: 20%;
+	}
+
+	#b19-div-2{
+		width: 20%;
+	}
+	#b20-div-3{
+		width: 20%;
+	}
+	#b21-div-4{
+		width: 20%;
+	}
+	#b22-div-5{
+		width: 20%;
+	}
+	#b23-div-6{
+		width: 20%;
+	}
+	#b24-div-7{
+		width: 20%;
+	}
+	#b25-div-8{
+		width: 20%;
+	}
+	#b26-div-9{
+		width: 20%;
+	}
+	#b27-div-10{
+		width: 20%;
+	}
+/*-- المستوى الأول -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى الثاني -- البداية --*/
+	/* جهة اليمين */
+	#c1-div-c1{
+	position: absolute;
+	width: 100%;
+	}
+	
+	#c2-cont-cont-1{
+	position: relative;
+	}
+
+	#c3-svg-c1-r{
+	fill:none;/*#FBD998*/
+/**/stroke:none;
+	stroke-width: 1;
+	}
+	
+	#c4-div-cont-right-c1{
+	position: absolute;
+	width: 17.7%;
+	top: 18.4%;
+	right: 0%;
+	}
+	
+	#c5-div-cont-00{
+	position: relative;
+
+	}
+	
+	#c5-div-cont-0{
+	position: absolute;
+    padding-top: 4.6%;
+	width: 100%;
+/**/visibility: hidden;
+	}
+
+	#c6-svg-cont-0{
+	fill:#ffcd6b;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#c7-div-cont-1{
+	position: absolute;
+/**/padding-top: 17.5%;
+	width: 100%;
+	
+	}
+
+	#c8-svg-cont-1{
+	fill: #ffcd6b;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#c9-div-cont-2{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17.5%;
+	
+	}
+	
+	#c10-svg-cont-2{
+	fill:#ffa447;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#c11-title-c1{
+	position: absolute;
+	padding-top: 7.5%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#c12-span-c1{
+		color: white;
+	}
+
+	#c00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #ffa447;
+	}
+	
+	/* جهة اليسار */
+	#c13-div-cont-left-c1{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+/**/left: 0%;
+/**/visibility: hidden;
+	}
+
+	#c14-svg-c1-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#c16-div-r-c1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#c17-div{
+		width: 100%;
+	}
+
+	#c18-div-1{
+		width: 20%;
+	}
+
+	#c19-div-2{
+		width: 20%;
+	}
+	#c20-div-3{
+		width: 20%;
+	}
+	#c21-div-4{
+		width: 20%;
+	}
+	#c22-div-5{
+		width: 20%;
+	}
+	#c23-div-6{
+		width: 20%;
+	}
+	#c24-div-7{
+		width: 20%;
+	}
+	#c25-div-8{
+		width: 20%;
+	}
+	#c26-div-9{
+		width: 20%;
+	}
+	#c27-div-10{
+		width: 20%;
+	}
+/*-- المستوى الثاني -- النهاية --*/
+
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى الثالث -- البداية --*/
+	/* جهة اليمين */
+
+	
+	#d1-div-d4{
+	position: absolute;
+	width: 100%;
+	}
+	
+	#d2-cont-cont-4{
+	position: relative;
+	}
+
+	#d3-svg-d4-r{
+	fill:none;/*#93C0FB*/
+/**/stroke:none;
+	stroke-width: 1;
+	}
+	
+	#d4-div-cont-right-d4{
+	position: absolute;
+	width: 17.7%;
+	top: 27.7%;
+	right: 0%;
+	}
+	
+	#d5-div-cont-44{
+	position: relative;
+
+	}
+	
+	#d5-div-cont-4{
+	position: absolute;
+/**/padding-top: 4.6%;
+	width: 100%;
+	visibility: hidden;
+	}
+
+	#d6-svg-cont-4{
+	fill:#519cff;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#d7-div-cont-4{
+	position: absolute;
+/**/padding-top: 17%;
+	width: 100%;
+	}
+
+	#d8-svg-cont-4{
+	fill: #519cff;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#d9-div-cont-4{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17%;
+	
+	}
+	
+	#d10-svg-cont-4{
+	fill:#3270c9;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#d11-title-d4{
+	position: absolute;
+	padding-top: 7.5%;
+	padding-right: 2.8%;
+	color: white;
+/**/font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#d12-span-d4{
+	color: white;
+	}
+
+	#d00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #3270c9;
+	}
+	
+	/* جهة اليسار */
+	#d13-div-cont-left-d4{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+/**/left: 0%;
+/**/visibility: hidden;
+	}
+
+	#d14-svg-d4-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#d16-div-r-d1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#d17-div{
+		width: 100%;
+	}
+
+	#d18-div-1{
+		width: 20%;
+	}
+
+	#d19-div-2{
+		width: 20%;
+	}
+	#d20-div-3{
+		width: 20%;
+	}
+	#d21-div-4{
+		width: 20%;
+	}
+	#d22-div-5{
+		width: 20%;
+	}
+	#d23-div-6{
+		width: 20%;
+	}
+	#d24-div-7{
+		width: 20%;
+	}
+	#d25-div-8{
+		width: 20%;
+	}
+	#d26-div-9{
+		width: 20%;
+	}
+	#d27-div-10{
+		width: 20%;
+	}
+/*-- المستوى الثالث -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى الرابع -- البداية --*/
+	/* جهة اليمين */
+	#e1-div-e5{
+	position: absolute;
+	width: 100%;
+		
+	}
+	
+
+	#e2-cont-cont-5{
+	position: relative;
+	}
+
+	#e3-svg-e5-r{
+	fill:none;/*#93C0FB*/
+	stroke:none;
+/**/stroke-width: 1;
+	}
+	
+	#e4-div-cont-right-e5{
+	position: absolute;
+	width: 17.7%;
+	top: 37.1%;
+	right: 0%;
+	}
+	
+	#e5-div-cont-55{
+	position: relative;
+
+	}
+	
+	#e5-div-cont-5{
+	position: absolute;
+    padding-top: 4.8%;
+/**/width: 100%;
+	visibility: hidden;
+	}
+
+	#e6-svg-cont-5{
+	fill:#519cff;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#e7-div-cont-5{
+	position: absolute;
+    padding-top: 17%;
+/**/width: 100%;
+	
+	}
+
+	#e8-svg-cont-5{
+	fill: #519cff;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#e9-div-cont-5{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17.3%;
+	
+	}
+	
+	#e10-svg-cont-5{
+	fill:#3270c9;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#e11-title-e5{
+	position: absolute;
+	padding-top: 7.5%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#e12-span-e5{
+		color: white;
+	}
+
+	#e00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #3270c9;
+	}
+	
+	/* جهة اليسار */
+	#e13-div-cont-left-e5{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+/**/left: 0%;
+/**/visibility: hidden;
+	}
+
+	#e14-svg-e5-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#e16-div-r-e1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#e17-div{
+		width: 100%;
+	}
+
+	#e18-div-1{
+		width: 20%;
+	}
+
+	#e19-div-2{
+		width: 20%;
+	}
+	#e20-div-3{
+		width: 20%;
+	}
+	#e21-div-4{
+		width: 20%;
+	}
+	#e22-div-5{
+		width: 20%;
+	}
+	#e23-div-6{
+		width: 20%;
+	}
+	#e24-div-7{
+		width: 20%;
+	}
+	#e25-div-8{
+		width: 20%;
+	}
+	#e26-div-9{
+		width: 20%;
+	}
+	#e27-div-10{
+		width: 20%;
+	}
+/*-- المستوى الرابع -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى الخامس -- البداية --*/
+	/* جهة اليمين */
+	#f1-div-f6{
+	position: absolute;
+	width: 100%;
+	}
+	
+
+	#f2-cont-cont-6{
+	position: relative;
+	}
+
+	#f3-svg-f6-r{
+	fill:none;/*#93C0FB*/
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#f4-div-cont-right-f6{
+	position: absolute;
+	width: 17.7%;
+	top: 46.6%;
+	right: 0%;
+	}
+	
+	#f5-div-cont-66{
+	position: relative;
+
+	}
+	
+	#f5-div-cont-6{
+	position: absolute;
+    padding-top: 4.6%;
+/**/width: 100%;
+	visibility: hidden;
+	}
+
+	#f6-svg-cont-6{
+	fill:#519cff;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#f7-div-cont-6{
+	position: absolute;
+    padding-top: 17%;
+	width: 100%;
+/**/
+	}
+
+	#f8-svg-cont-6{
+	fill: #519cff;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#f9-div-cont-6{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17.2%;
+	
+	}
+	
+	#f10-svg-cont-6{
+	fill:#3270c9;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#f11-title-f6{
+	position: absolute;
+	padding-top: 7.5%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#f12-span-f6{
+		color: white;
+	}
+
+	#f00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #3270c9;
+	}
+	
+	/* جهة اليسار */
+	#f13-div-cont-left-f6{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+	left: 0%;
+/**/visibility: hidden;
+	}
+
+	#f14-svg-f6-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#f16-div-r-f1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#f17-div{
+		width: 100%;
+	}
+
+	#f18-div-1{
+		width: 20%;
+	}
+
+	#f19-div-2{
+		width: 20%;
+	}
+	#f20-div-3{
+		width: 20%;
+	}
+	#f21-div-4{
+		width: 20%;
+	}
+	#f22-div-5{
+		width: 20%;
+	}
+	#f23-div-6{
+		width: 20%;
+	}
+	#f24-div-7{
+		width: 20%;
+	}
+	#f25-div-8{
+		width: 20%;
+	}
+	#f26-div-9{
+		width: 20%;
+	}
+	#f27-div-10{
+		width: 20%;
+	}
+/*-- المستوى الخامس -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى السادس -- البداية --*/
+	/* جهة اليمين */
+	#g1-div-g7{
+	position: absolute;
+	width: 100%;
+	}
+	
+
+	#g2-cont-cont-7{
+	position: relative;
+	}
+
+	#g3-svg-g7-r{
+	fill:none;/*#FC9C9B*/
+	stroke:none;
+/**/stroke-width: 1;
+	}
+	
+	#g4-div-cont-right-g7{
+	position: absolute;
+	width: 17.7%;
+	top: 55.3%;
+	right: 0%;
+	}
+	
+	#g5-div-cont-77{
+	position: relative;
+
+	}
+	
+	#g5-div-cont-7{
+	position: absolute;
+    padding-top: 4.6%;
+/**/width: 100%;
+	visibility: hidden;
+	}
+
+	#g6-svg-cont-7{
+	fill:#ff5754;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#g7-div-cont-7{
+	position: absolute;
+    padding-top: 17%;
+	width: 100%;
+/**/
+	}
+
+	#g8-svg-cont-7{
+	fill: #ff5754;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#g9-div-cont-7{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17%;
+	
+	}
+	
+	#g10-svg-cont-7{
+	fill:#f02133;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#g11-title-g7{
+	position: absolute;
+	padding-top: 7.5%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#g12-span-g7{
+		color: white;
+	}
+
+	#g00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #f02133;
+	}
+	
+	/* جهة اليسار */
+	#g13-div-cont-left-g7{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+	left: 0%;
+/**/visibility: hidden;
+	}
+
+	#g14-svg-g7-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#g16-div-r-g1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#g17-div{
+		width: 100%;
+	}
+
+	#g18-div-1{
+		width: 20%;
+	}
+
+	#g19-div-2{
+		width: 20%;
+	}
+	#g20-div-3{
+		width: 20%;
+	}
+	#g21-div-4{
+		width: 20%;
+	}
+	#g22-div-5{
+		width: 20%;
+	}
+	#g23-div-6{
+		width: 20%;
+	}
+	#g24-div-7{
+		width: 20%;
+	}
+	#g25-div-8{
+		width: 20%;
+	}
+	#g26-div-9{
+		width: 20%;
+	}
+	#g27-div-10{
+		width: 20%;
+	}
+/*-- المستوى السادس -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى السابع -- البداية --*/
+	/* جهة اليمين */
+	#h1-div-h8{
+	position: absolute;
+	width: 100%;
+	
+	}
+	
+
+	#h2-cont-cont-8{
+	position: relative;
+	}
+
+	#h3-svg-h8-r{
+	fill:none;/*#FC9C9B*/
+	stroke:none;
+/**/stroke-width: 1;
+	}
+	
+	#h4-div-cont-right-h8{
+	position: absolute;
+	width: 17.7%;
+	top: 64.5%;
+	right: 0%;
+	}
+	
+	#h5-div-cont-88{
+	position: relative;
+
+	}
+	
+	#h5-div-cont-h8{
+	position: absolute;
+    padding-top: 4.6%;
+/**/width: 100%;
+	visibility: hidden;
+	}
+
+	#h6-svg-cont-8{
+	fill:#ff5754;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#h7-div-cont-8{
+	position: absolute;
+    padding-top: 17%;
+	width: 100%;
+/**/
+	}
+
+	#h8-svg-cont-8{
+	fill: #ff5754;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#h9-div-cont-8{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17%;
+	
+	}
+	
+	#h10-svg-cont-8{
+	fill:#f02133;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#h11-title-h8{
+	position: absolute;
+	padding-top: 7.5%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#h12-span-h8{
+		color: white;
+	}
+
+	#h00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #f02133;
+	}
+	
+	/* جهة اليسار */
+	#h13-div-cont-left-h8{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+	left: 0%;
+/**/visibility: hidden;
+	}
+
+	#h14-svg-h8-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#h16-div-r-h1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#h17-div{
+		width: 100%;
+	}
+
+	#h18-div-1{
+		width: 20%;
+	}
+
+	#h19-div-2{
+		width: 20%;
+	}
+	#h20-div-3{
+		width: 20%;
+	}
+	#h21-div-4{
+		width: 20%;
+	}
+	#h22-div-5{
+		width: 20%;
+	}
+	#h23-div-6{
+		width: 20%;
+	}
+	#h24-div-7{
+		width: 20%;
+	}
+	#h25-div-8{
+		width: 20%;
+	}
+	#h26-div-9{
+		width: 20%;
+	}
+	#h27-div-10{
+		width: 20%;
+	}
+/*-- المستوى السابع -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى الثامن -- البداية --*/
+	/* جهة اليمين */
+	#i1-div-i9{
+	position: absolute;
+	width: 100%;
+	}
+	
+
+	#i2-cont-cont-9{
+	position: relative;
+	}
+
+	#i3-svg-i9-r{
+	fill:none;/*#BEBEBE*/
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#i4-div-cont-right-i9{
+	position: absolute;
+	width: 17.7%;
+	top: 73.7%;
+	right: 0%;
+	}
+	
+	#i5-div-cont-99{
+	position: relative;
+
+	}
+	
+	#i5-div-cont-i9{
+	position: absolute;
+    padding-top: 4.6%;
+	width: 100%;
+	visibility: hidden;
+	}
+
+	#i6-svg-cont-9{
+	fill:#9f9191;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#i7-div-cont-9{
+	position: absolute;
+    padding-top: 17%;
+	width: 100%;
+	
+	}
+
+	#i8-svg-cont-9{
+	fill: #9f9191;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#i9-div-cont-9{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17%;
+	}
+	
+	#i10-svg-cont-9{
+	fill:#5e5c57;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#i11-title-i9{
+	position: absolute;
+	padding-top: 7.3%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#i12-span-i9{
+		color: white;
+	}
+
+	#i00-span{
+	border-radius: 5px;
+	padding: 5px 5px 0px 5px;
+	background-color: #5e5c57;
+	}
+	
+	/* جهة اليسار */
+	#i13-div-cont-left-i9{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+	left: 0%;
+/**/visibility: hidden;
+	}
+
+	#i14-svg-i9-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#i16-div-r-i1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#i17-div{
+		width: 100%;
+	}
+
+	#i18-div-1{
+		width: 20%;
+	}
+
+	#i19-div-2{
+		width: 20%;
+	}
+	#i20-div-3{
+		width: 20%;
+	}
+	#i21-div-4{
+		width: 20%;
+	}
+	#i22-div-5{
+		width: 20%;
+	}
+	#i23-div-6{
+		width: 20%;
+	}
+	#i24-div-7{
+		width: 20%;
+	}
+	#i25-div-8{
+		width: 20%;
+	}
+	#i26-div-9{
+		width: 20%;
+	}
+	#i27-div-10{
+		width: 20%;
+	}
+/*-- المستوى الثامن -- النهاية --*/
+
+/*<!-- ----------------------------------- -->*/
+
+/*-- المستوى التاسع -- البداية --*/
+	/* جهة اليمين */
+	#j1-div-j10{
+		
+	}
+	
+
+	#j2-cont-cont-10{
+	position: relative;
+		
+	}
+
+	#j3-svg-j10-r{
+	fill:none;/*#F7C0FB*/
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#j4-div-cont-right-j10{
+	position: absolute;
+	width: 17.7%;
+	top: 83%;
+	right: 0%;
+	}
+	
+	#j5-div-cont-1010{
+	position: relative;
+
+	}
+	
+	#j5-div-cont-j10{
+	position: absolute;
+    padding-top: 4.6%;
+	width: 100%;
+	visibility: hidden;
+	}
+
+	#j6-svg-cont-10{
+	fill:#f993ff;
+	stroke:none;
+	stroke-width: 1;
+	
+	}
+	
+	#j7-div-cont-10{
+	position: absolute;
+    padding-top: 17%;
+	width: 100%;
+	
+	}
+
+	#j8-svg-cont-10{
+	fill: #f993ff;
+	stroke:none;
+	stroke-width: 1;
+	}
+	
+	#j9-div-cont-10{
+	position: absolute;
+	width: 21.6%;
+	padding-top: 17%;
+	display: none;
+	}
+	
+	#j10-svg-cont-10{
+	fill:red;
+	stroke:blue;
+	stroke-width: 1;
+	}
+	
+	#j11-title-j10{
+	position: absolute;
+	padding-top: 6.5%;
+	padding-right: 2.8%;
+	color: white;
+	font-size: 1.4vw;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+/**//*text-shadow: 2px 2px 4px #505050;*/
+	}
+	
+	#j12-span-j10{
+		color: white;
+	}
+	
+	/* جهة اليسار */
+	#j13-div-cont-left-j10{
+	position: absolute;
+	width:  82.4%;
+	top: 0%;
+	left: 0%;
+/**/visibility: hidden;
+	}
+
+	#j14-svg-j10-l{
+	fill:none;
+	stroke:none;
+	stroke-width: 1;
+	}
+
+/*الحاوية*/
+	#j16-div-r-j1{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+		height: 99%;
+	}
+
+	#j17-div{
+		width: 100%;
+		font-size: 1.6vw;
+		font-family: "HelveticaNeueW23forSKY-Bd", serif;
+		color: white;
+	}
+
+/*-- المستوى التاسع -- النهاية --*/
+
+
+
+
+
+/* الاحصائيات والارقام */	
+#befor-end{
+text-align: center;
+font-size: 1.2vw;
+font-family: "HelveticaNeueW23forSKY-Bd", serif;
+}
+
+#befor-end span{
+border-radius: 5px;
+padding: 3px 5px 0px 5px;
+color: #FFFFFF;
+}
+
+span#s1,span#s2{
+	background-color: #519cff;
+}
+span#s3{
+	background-color: #c0c0c0;
+}
+span#s5{
+	background-color: #ff5754;
+}
+span#s4,span#s6{
+	background-color: #1faf3e;
+}
+/* الاحصائيات والارقام */
+
+
+/* آخر الصفحة */
+#area-footer{
+
+padding-top: 0.4%;
+
+}
+
+#area-footer span{
+padding-left: 30%;
+padding-right: 22%;
+font-size: 0.9vw;
+}
+
+#Footer-icon-sound{
+	width: 2.3%;
+	margin-right: 1%;
+}
+
+#Footer-icon-resize{
+	width: 2.3%;
+	margin-right: 0.5%;
+}
+
+#Footer-link a{
+	text-decoration-line: none;
+	font-size: 1.5vw;
+	color: white;
+	font-family: "HelveticaNeueW23forSKY-Bd", serif;
+}
+
+#Footer-oclock{
+	width: 20%;
+}
+
+
+
+#footer-icons{
+	
+}
+
+.box{
+	box-sizing: border-box;
+    float: left;    
+}
+/* آخر الصفحة */

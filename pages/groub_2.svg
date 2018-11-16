@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 348 711">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-groub_2);
+      }
+
+      .cls-2 {
+        fill: #1faf3e;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-7 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: url(#pattern);
+      }
+
+      .cls-4, .cls-5, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 31px;
+      }
+
+      .cls-11, .cls-12, .cls-5, .cls-6, .cls-8, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-10, .cls-6 {
+        fill: #ff6969;
+      }
+
+      .cls-6 {
+        font-size: 22px;
+      }
+
+      .cls-7 {
+        fill: red;
+      }
+
+      .cls-8 {
+        font-size: 33px;
+      }
+
+      .cls-9 {
+        font-size: 82px;
+      }
+
+      .cls-11 {
+        font-size: 18px;
+      }
+
+      .cls-12 {
+        font-size: 16px;
+      }
+
+      .cls-13 {
+        stroke: none;
+      }
+
+      .cls-14 {
+        fill: none;
+      }
+
+      .cls-15 {
+        filter: url(#Ellipse_2);
+      }
+
+      .cls-16 {
+        filter: url(#Path_2);
+      }
+
+      .cls-17 {
+        filter: url(#img_avatar3);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 499 498">
+      <image width="499" height="498" xlink:href="../w3images/img_avatar3.png"/>
+    </pattern>
+    <filter id="img_avatar3" x="45" y="94" width="258" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="-1.996" y="224.5" width="351.163" height="491" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.851"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2" x="279.17" y="3" width="69" height="69" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-groub_2">
+      <rect width="348" height="711"/>
+    </clipPath>
+  </defs>
+  <g id="groub_2" class="cls-1">
+    <path id="Path_3" data-name="Path 3" class="cls-2" d="M-587,660c.263,39,40,40,40,40h240s39.882-.211,40-40,0-100,0-100V360.122H-587V560S-587.263,621-587,660Z" transform="translate(-253.447 740) rotate(-180)"/>
+    <g class="cls-17" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="img_avatar3-2" data-name="img_avatar3" class="cls-3" transform="translate(54 100)">
+        <circle class="cls-13" cx="120" cy="120" r="120"/>
+        <circle class="cls-14" cx="120" cy="120" r="119.5"/>
+      </g>
+    </g>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Path_2-2" data-name="Path 2" class="cls-4" d="M-587,660c.263,39,40,40,40,40h240s39.882-.211,40-40,0-100,0-100V240h-20s-6.333,120-140,120S-567,240-567,240h-20V560S-587.263,621-587,660Z" transform="translate(600.62)"/>
+    </g>
+    <text id="فراس_هوساوي" data-name="فراس هوساوي" class="cls-5" transform="translate(81 83)"><tspan x="0" y="0">فراس هوساوي</tspan></text>
+    <text id="حلقة_حسان_بن_ثابت" data-name="حلقة حسان بن ثابت" class="cls-6" transform="translate(174 394)"><tspan x="-87.108" y="0">حلقة حسان بن ثابت</tspan></text>
+    <g id="Group_6" data-name="Group 6">
+      <g class="cls-15" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="Ellipse_2-2" data-name="Ellipse 2" class="cls-7" transform="translate(288.17 9)">
+          <circle class="cls-13" cx="25.5" cy="25.5" r="25.5"/>
+          <circle class="cls-14" cx="25.5" cy="25.5" r="25"/>
+        </g>
+      </g>
+      <text id="_11" data-name="11" class="cls-8" transform="translate(288.17 9)"><tspan x="8.211" y="36">11</tspan></text>
+    </g>
+    <text id="_1" data-name="1" class="cls-9" transform="translate(152 690)"><tspan x="0" y="0">1</tspan></text>
+    <g id="Group_5" data-name="Group 5" transform="translate(4.83)">
+      <path id="Path_4" data-name="Path 4" class="cls-10" d="M-452.791,720h230.06s6.4,0,6.4,9.688S-222.73,740-222.73,740H-447.4s-5.929-.937-5.929-10.312S-447.4,720-447.4,720" transform="translate(468.503 -285)"/>
+      <text id="المستوى" class="cls-11" transform="translate(258.17 450)"><tspan x="0" y="0">المستوى</tspan></text>
+      <text id="_15" data-name="15" class="cls-12" transform="translate(18.17 451)"><tspan x="0" y="0">15</tspan></text>
+      <text id="_10" data-name="10" class="cls-12" transform="translate(232.17 451)"><tspan x="0" y="0">10</tspan></text>
+      <path id="Path_4-2" data-name="Path 4" class="cls-10" d="M-452.791,720h230.06s6.4,0,6.4,9.688S-222.73,740-222.73,740H-447.4s-5.929-.937-5.929-10.312S-447.4,720-447.4,720" transform="translate(468.503 -237)"/>
+      <text id="المراجعة" class="cls-11" transform="translate(261.17 498)"><tspan x="0" y="0">المراجعة</tspan></text>
+      <text id="_12" data-name="12" class="cls-12" transform="translate(18.17 499)"><tspan x="0" y="0">12</tspan></text>
+      <text id="_20" data-name="20" class="cls-12" transform="translate(232.17 499)"><tspan x="0" y="0">20</tspan></text>
+      <path id="Path_4-3" data-name="Path 4" class="cls-10" d="M-452.791,720h230.06s6.4,0,6.4,9.688S-222.73,740-222.73,740H-447.4s-5.929-.937-5.929-10.312S-447.4,720-447.4,720" transform="translate(468.503 -189)"/>
+      <text id="السلوك" class="cls-11" transform="translate(267.17 546)"><tspan x="0" y="0">السلوك</tspan></text>
+      <text id="_15-2" data-name="15" class="cls-12" transform="translate(18.17 547)"><tspan x="0" y="0">15</tspan></text>
+      <text id="_22" data-name="22" class="cls-12" transform="translate(232.17 547)"><tspan x="0" y="0">22</tspan></text>
+      <path id="Path_4-4" data-name="Path 4" class="cls-10" d="M-452.791,720h230.06s6.4,0,6.4,9.688S-222.73,740-222.73,740H-447.4s-5.929-.937-5.929-10.312S-447.4,720-447.4,720" transform="translate(468.503 -141)"/>
+      <text id="المواظبة" class="cls-11" transform="translate(258.17 594)"><tspan x="0" y="0">المواظبة</tspan></text>
+      <text id="_15-3" data-name="15" class="cls-12" transform="translate(18.17 595)"><tspan x="0" y="0">15</tspan></text>
+      <text id="_22-2" data-name="22" class="cls-12" transform="translate(232.17 595)"><tspan x="0" y="0">22</tspan></text>
+    </g>
+  </g>
+</svg>

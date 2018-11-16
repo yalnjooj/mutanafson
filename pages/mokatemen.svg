@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 329 345">
+  <defs>
+    <style>
+      .cls-1-i1 {
+        clip-path: url();
+      }
+
+      .cls-1-i2 {
+        fill: #9f9191;
+      }
+
+      .cls-1-i2, .cls-1-i5 {
+        stroke: #707070;
+      }
+
+      .cls-1-i3, .cls-1-i4 {
+        fill: #fff;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-1-i3 {
+        font-size: 30px;
+      }
+
+      .cls-1-i4 {
+        font-size: 37px;
+      }
+
+      .cls-1-i5 {
+        fill: url(#pattern-mo);
+      }
+
+      .cls-1-i6 {
+        stroke: none;
+      }
+
+      .cls-1-i7 {
+        fill: none;
+      }
+
+      .cls-1-i8 {
+        filter: url(#img-mo);
+      }
+    </style>
+    <pattern id="pattern-mo" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 499 498">
+      <image width="499" height="498" xlink:href="..\w3images\img_avatar3.png"/>
+    </pattern>
+    <filter id="img-mo" x="36" y="48.053" width="258" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-mokatemen">
+      <rect width="329" height="345"/>
+    </clipPath>
+  </defs>
+  <g id="mokatemen" class="cls-1-i1">
+    <path id="back-img-mo" class="cls-1-i2" d="M.224,320c.263,39,32,40,32,40h248s31.882-.211,32-40,1-208.667,0-248-32-40-32-40h-248S.558,32,.224,72-.039,281,.224,320Z" transform="translate(322.348 369) rotate(-180)"/>
+    <text id="date-mo" class="cls-1-i3" transform="translate(69 327)"><tspan x="0" y="0">هـ</tspan><tspan y="0">1440</tspan><tspan y="0">الثلاثاء 1440</tspan></text>
+    <text id="name-mo" class="cls-1-i4" transform="translate(70 47)"><tspan x="0" y="0">firas husawi</tspan></text>
+    <g class="cls-1-i8" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="img-mo-2" data-name="img-mo" class="cls-1-i5" transform="translate(45 54.05)">
+        <circle class="cls-1-i6" cx="120" cy="120" r="120"/>
+        <circle class="cls-1-i7" cx="120" cy="120" r="119.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
